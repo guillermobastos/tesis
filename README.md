@@ -6,9 +6,9 @@ Afloramiento dos días previos; Afloramiento tres días previos;
 Afloramiento cuatro días previos.  
 
 ## Variables usadas por mi parte:
-TEMPERATURA	-> Temperatura de 1_5m
-SALINIDAD	-> Salinidad de 1_5m
-STATION	-> Las estaciones usadas fueron las M5, A0, P4 y V5
+- TEMPERATURA	-> Temperatura de 1_5m
+- SALINIDAD	-> Salinidad de 1_5m
+- STATION	-> Las estaciones usadas fueron las M5, A0, P4 y V5
 UI	-> Índice de afloramiento
 UI_1, UI_2, UI_3, UI_4 -> valores del UI a 1,2,3,4 días previos
 PSEUSPP	-> valor de la Pseudo-nitzschia
