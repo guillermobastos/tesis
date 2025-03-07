@@ -9,17 +9,17 @@ Afloramiento cuatro días previos.
 - TEMPERATURA	-> Temperatura de 1_5m
 - SALINIDAD	-> Salinidad de 1_5m
 - STATION	-> Las estaciones usadas fueron las M5, A0, P4 y V5
-UI	-> Índice de afloramiento
-UI_1, UI_2, UI_3, UI_4 -> valores del UI a 1,2,3,4 días previos
-PSEUSPP	-> valor de la Pseudo-nitzschia
-BLOOM, BLOOM_1w, BLOOM_2w	-> valor de BLOOM (1) 0 (-1) cuando no hay, y los valores de shift(1) una semana previa y shift(2) dos semanas previas 
-BLOOM_PREDICT	-> valor de BLOOM a una semana vista shift(-1)
-CA_G_1	-> valor de la Clorofila Grande A 
-RIA	 -> RIA [1,2,3,4]
-COD_BLOOM -> valor de 0 a 15 dependiendo de BLOOM y RIA 
-DAY	 -> Dia del año
-VAR_TEMPERATURA	-> variación de temperatura de una semana atrás y la actual
-VAR_SALINIDAD	-> variación de salinidad de una semana atrás y la actual
+- UI	-> Índice de afloramiento
+- UI_1, UI_2, UI_3, UI_4 -> valores del UI a 1,2,3,4 días previos
+- PSEUSPP	-> valor de la Pseudo-nitzschia
+- BLOOM, BLOOM_1w, BLOOM_2w	-> valor de BLOOM (1) 0 (-1) cuando no hay, y los valores de shift(1) una semana previa y shift(2) dos semanas previas 
+- BLOOM_PREDICT	-> valor de BLOOM a una semana vista shift(-1)
+- CA_G_1	-> valor de la Clorofila Grande A 
+- RIA	 -> RIA [1,2,3,4]
+- COD_BLOOM -> valor de 0 a 15 dependiendo de BLOOM y RIA 
+- DAY	 -> Dia del año
+- VAR_TEMPERATURA	-> variación de temperatura de una semana atrás y la actual
+- VAR_SALINIDAD	-> variación de salinidad de una semana atrás y la actual
 
 
 1. Todos los datos fueron escalados a -1,1 según pg 68 tesis apartado e)
